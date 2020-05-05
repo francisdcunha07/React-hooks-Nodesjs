@@ -6,7 +6,7 @@ A Reading booklist app built using React hooks and context Api
 #### Install dependencies for server
 npm install
 
-#### Install dependencies for client (go to client folder and run the below command
+#### Install dependencies for client (go to client folder and run the below command)
 npm install
 
 #### Run the client & server with concurrently
